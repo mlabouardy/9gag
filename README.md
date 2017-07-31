@@ -39,7 +39,7 @@ import (
 
 func main() {
 	gag9 := gag9.New()
-	for _, meme := range gag9.FindByTag("got) {
+	for _, meme := range gag9.FindByTag("got") {
 		fmt.Printf("Description: %s\nImage: %s\n", meme.Description, meme.Image)
 	}
 }
