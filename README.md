@@ -1,6 +1,6 @@
 # 9GAG API in Go 
 
-[![CircleCI](https://circleci.com/gh/mlabouardy/icinga2-slack-bot/tree/master.svg?style=svg)](https://circleci.com/gh/mlabouardy/icinga2-slack-bot/tree/master) [![Go Report Card](https://goreportcard.com/badge/github.com/mlabouardy/9gag)](https://goreportcard.com/report/github.com/mlabouardy/9gag) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![CircleCI](https://circleci.com/gh/mlabouardy/9gag.svg?style=svg)](https://circleci.com/gh/mlabouardy/9gag) [![Go Report Card](https://goreportcard.com/badge/github.com/mlabouardy/9gag)](https://goreportcard.com/report/github.com/mlabouardy/9gag) [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 ## Installing
 
