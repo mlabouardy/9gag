@@ -45,6 +45,10 @@ func main() {
 }
 ```
 
+## How to use
+
+http://www.blog.labouardy.com/create-9gag-android-application/
+
 ## Contributing
 
 You are more than welcome to contribute to this project.  Fork and
